@@ -1,6 +1,6 @@
 # 🎵 Sound Visualization Platform Game
 
-A Monument Valley-style 3D platform game controlled by your voice! Build pathways with sound and guide your character to victory.
+A voice-controlled 3D platform game! Build pathways with sound and guide your character to victory.
 
 ## 🎬 Live Game Demo
 
@@ -17,10 +17,14 @@ A Monument Valley-style 3D platform game controlled by your voice! Build pathway
 
 > **Demo Video:** [🎥 View Gameplay Recording](https://github.com/tlswa-123/sound_visualization_game/blob/main/game_screenshot.mp4)
 
+### 🎬 **Quick GIF Demo**
+
+![Game Demo](https://github.com/tlswa-123/sound_visualization_game/raw/main/game_demo.gif)
+
 **🎮 Watch the voice-controlled block building in action!**  
 *Speak into your microphone → Generate 3D blocks → Guide character to victory!*
 
-> 💡 **Click the video link above to see the full Monument Valley-style 3D platformer game in action!**
+> 💡 **Click the video link above to see the full 3D platformer game in action!**
 
 </div>
 
